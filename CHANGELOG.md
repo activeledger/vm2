@@ -1,3 +1,9 @@
+v3.9.20 (2023-09-20)
+--------------------
+[fix] Symbol Security fix #1 (see https://github.com/patriksimek/vm2/security/advisories/GHSA-g644-9gfx-q4q4).
+
+[fix] Symbol Security fix #2 (see https://github.com/patriksimek/vm2/security/advisories/GHSA-cchq-frgv-rjh5).
+
 (discontinued) (2023-07-09)
 ---------------------------
 Discontinued do to security issues without proper fixes.
