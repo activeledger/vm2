@@ -1,3 +1,7 @@
+v3.9.21 (2023-09-21)
+--------------------
+[fix] Expand Sandbox Symbols
+
 v3.9.20 (2023-09-20)
 --------------------
 [fix] Symbol Security fix #1 (see https://github.com/patriksimek/vm2/security/advisories/GHSA-g644-9gfx-q4q4).
