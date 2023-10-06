@@ -1,3 +1,7 @@
+v3.9.22 (2023-10-06)
+--------------------
+[fix] Additional Symbol / Proxy escapes (see https://github.com/patriksimek/vm2/issues/533#issuecomment-1748934984)
+
 v3.9.21 (2023-09-21)
 --------------------
 [fix] Expand Sandbox Symbols
