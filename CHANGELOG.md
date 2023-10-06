@@ -1,3 +1,7 @@
+v3.9.24 (2023-10-06)
+--------------------
+[fix] Fix Introduced Object Escapes escapes (see https://github.com/patriksimek/vm2/issues/533#issuecomment-1750328055)
+
 v3.9.22 (2023-10-06)
 --------------------
 [fix] Additional Symbol / Proxy escapes (see https://github.com/patriksimek/vm2/issues/533#issuecomment-1748934984)
